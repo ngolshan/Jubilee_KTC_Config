@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jubilee_KTCC_Config
 Backup of the klipper config on my Jubilee Toolchanger
 
@@ -84,3 +85,7 @@ M568 P[next_extruder] R{idle_temperature[next_extruder]} S{temperature[next_extr
 {endif}
 T{next_extruder}
 ```
+=======
+# Jubilee KTC Config
+Config for my Jubilee Toolchanger using the KTC toolchanger extension for Klipper.
+>>>>>>> b1e5a5f3a47bc99cfc030d69eaeae5289cd085a0
